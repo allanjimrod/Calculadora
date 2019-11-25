@@ -1,6 +1,6 @@
 package com.example.demo.services;
 
-import com.content.transferlist.Tl_operation;
+import com.example.demo.entities.Tl_operation;
 import org.springframework.stereotype.Service;
 
 @Service
